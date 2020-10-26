@@ -1,0 +1,130 @@
+.nav_color {
+  color: white;
+}
+nav {
+  background-color: rgb(0, 0, 0, 0.3);
+ 
+}
+nav:hover {
+  background-color: rgb(0, 0, 0);
+}
+a:hover {
+  background-color: black;
+}
+.site-footer {
+  background-color: #26272b;
+  padding: 45px 0 20px;
+  font-size: 15px;
+  line-height: 24px;
+  color: #737373;
+}
+.site-footer hr {
+  border-top-color: #bbb;
+  opacity: 0.5;
+}
+.site-footer hr.small {
+  margin: 20px 0;
+}
+.site-footer h6 {
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-top: 5px;
+  letter-spacing: 2px;
+}
+.site-footer a {
+  color: #737373;
+}
+.site-footer a:hover {
+  color: #3366cc;
+  text-decoration: none;
+}
+.footer-links {
+  padding-left: 0;
+  list-style: none;
+}
+.footer-links li {
+  display: block;
+}
+.footer-links a {
+  color: #737373;
+}
+.footer-links a:active,
+.footer-links a:focus,
+.footer-links a:hover {
+  color: #3366cc;
+  text-decoration: none;
+}
+.footer-links.inline li {
+  display: inline-block;
+}
+
+.fb  {
+  background-color: blue;
+  color: black;
+}
+.yo{
+  background-color: red ;
+  color: #000;
+}
+.in{
+  background-color: violet;
+  color: #000;
+}
+.tw{
+  background-color: cornflowerblue;
+  color: #000;
+}
+.fb:hover  {
+  background-color: transparent;
+  color: blue;
+}
+.yo :hover{
+  background-color:transparent ;
+  color: red;
+}
+.in :hover{
+  background-color: transparent;
+  color:violet;
+}
+.tw :hover{
+  background-color: transparent;
+  color:cadetblue;
+}
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url(image/ph1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.bloc{
+  background-color: rgb(0, 0, 0 , 0.7);
+  width: 90%;
+  
+}
+.colespace{
+  height: 300px;
+}
+
+.fixedbackround {
+  
+  background-image: url(image/nosespace.jpg);
+  
+  
+  background-position: center center;
+  
+  
+  background-repeat: no-repeat;
+  
+  
+  background-attachment: fixed;
+  
+  
+  background-size: cover;
+  
+  
+  background-color: #464646;
+}
